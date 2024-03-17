@@ -1,3 +1,2 @@
-# dbt_data_camp
-learning how to use dbt
+# dlt_zoom_data
 This is an intruductory and basic concepts in dbt.
