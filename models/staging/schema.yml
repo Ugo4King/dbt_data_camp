@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: data-zoom-camp-ugo
+    schema: ny_taxi_data
+    tables:
+      - name: yellow_taxi_data
+      - name: green_taxi_data
+      
